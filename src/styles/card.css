@@ -1,0 +1,12 @@
+.card {
+  width: 320px;
+  height: 600px;
+  margin: 50px auto;
+  border-radius: 10px;
+  background: var(--card-bg);
+  overflow: hidden;
+}
+
+.photo {
+  width: 320px;
+}
