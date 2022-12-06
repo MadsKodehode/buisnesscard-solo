@@ -1,0 +1,8 @@
+//Build from scratch
+//Fill in your own information
+
+//Seperate components for:
+Info(photo, name, buttons, etc)
+About
+Interests
+Footer(Social Icons)
